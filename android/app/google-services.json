@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222733369516",
+    "project_id": "foodcommu-v2-vab4vb",
+    "storage_bucket": "foodcommu-v2-vab4vb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222733369516:android:76497f11cf0a5d895c1f09",
+        "android_client_info": {
+          "package_name": "com.mycompany.foodcommuv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZNXuVAzXuGFK1TfXmS18MyXeTDqK3xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
